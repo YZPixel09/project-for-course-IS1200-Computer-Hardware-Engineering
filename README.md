@@ -20,13 +20,12 @@ This project is a **ChipKit-based game** created for the **IS1200 Computer Hardw
 
 ### 1. Set Up Environment
 - Open the **MSYS2 terminal**.
-- Navigate to the directory where the game's source files are located:
-  ```bash
-  cd /path/to/game/source
- This command configures the required environment variables and paths for the PIC32 toolchain.
+- Navigate to the directory where the game's source files are located
+- Run the following command to set up the environment:
+   ```bash
+  . /opt/pic32-toolchain/environment
 
- ### 2. Enter the Toolchain Environment
-Run the following command to set up the environment:
-  ```bash
-. /opt/pic32-toolchain/environment
-
+Screenshots 
+![image](https://github.com/user-attachments/assets/4afe4720-f485-4bba-b4f8-e58605f00727)
+![image](https://github.com/user-attachments/assets/c1b9105e-e5fa-4532-836f-3b8e29c43c9e)
+![image](https://github.com/user-attachments/assets/20cc0bc6-5626-4248-a1cf-520a88bd263c)
